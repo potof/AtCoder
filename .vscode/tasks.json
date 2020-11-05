@@ -10,7 +10,7 @@
         "isDefault": true
       },
       "type": "shell",
-      "command": "${workspaceFolder}/cptest.bat",
+      "command": "${workspaceFolder}\\work\\cptest.bat",
       "args": [
         "${fileBasenameNoExtension}"
       ],

@@ -11,4 +11,4 @@ ans = solve(n, y)
 if ans is None:
     print("-1 -1 -1")
 else:
-    print(" ".join(map(str, ans)))
+    print(*ans)

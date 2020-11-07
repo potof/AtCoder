@@ -1,11 +1,11 @@
-# AtCorder
- AtCorder の回答を入れていく
+# AtCoder
+ AtCoder の回答を入れていく
 
 ## Windows 10 + VS Code で自動テストするやりかた
 
 | No. | Command | 内容 |
 | --- | --- | --- |
-| 1 | Ctrl + Shift + B | AtCorder のサンプル問題を実行する |
+| 1 | Ctrl + Shift + B | AtCoder のサンプル問題を実行する |
 
 
 ### 事前の環境状態
@@ -21,5 +21,3 @@
 [Install Directory]\Anaconda3\Library\bin
 [Install Directory]\Anaconda3\Scripts
 ```
-
-

@@ -1,3 +1,4 @@
+# using pypy
 num = int(input())
 
 def gcd(a, b):

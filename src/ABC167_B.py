@@ -1,12 +1,7 @@
 
 a, b, c, k = map(int, input().split())
 
-ans = 0
-
-if a <= k:
-    ans = a
-else:
-    ans = k
+ans = min(a, k)
 k -= a
 
 if k > 0:

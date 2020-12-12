@@ -6,6 +6,8 @@
 | No. | Command | 内容 |
 | --- | --- | --- |
 | 1 | Ctrl + Shift + B | AtCoder のサンプル問題を実行する |
+| 2 | F5 | デバッグ実行（Input は手入力） |
+| 3 | Ctrl + Shift + P -> Run Task -> create_answer_file_from_template | テンプレートから回答用ファイルを作る |
 
 
 ### 事前の環境状態
